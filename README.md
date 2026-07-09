@@ -25,7 +25,7 @@ RAYA automatically pulls the official upstream SQLite amalgamation file source a
 Execute the following commands in your local terminal environment to pull, initialize, and register the local node bedrock:
 
 ```bash
-git clone [https://github.com/your-username/raya-framework.git](https://github.com/MichaelBirara/raya-framework.git)
+git clone [https://github.com/MichaelBirara/raya-framework.git](https://github.com/MichaelBirara/raya-framework.git)
 cd raya-framework
 chmod +x install_raya.sh
 ./install_raya.sh
