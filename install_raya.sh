@@ -93,5 +93,3 @@ echo "==========================================================================
 echo " -> Clean storage engines initialized."
 echo " -> Ready for open distribution on GitHub."
 echo "================================================================================"
-chmod +x install_raya.sh
-./install_raya.sh
