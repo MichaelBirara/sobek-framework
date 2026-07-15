@@ -11,7 +11,7 @@ SQLITE_YEAR="2026"
 SQLITE_VERSION="3530300" 
 
 echo "================================================================================"
-echo "    INITIALIZING PURE SOBEK FRAMEWORK ENGINE (v$RAYA_VERSION)                    "
+echo "    INITIALIZING PURE SOBEK FRAMEWORK ENGINE (v$SOBEK_VERSION)                    "
 echo "================================================================================"
 
 # 1. Create clean workspace directories
