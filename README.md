@@ -11,7 +11,6 @@ The SOBEK framework is architected in absolute compliance with the computational
 ## Key Pillars
 
 * **Zero-Server Paradigm:** Operates with no backends, cloud dependencies, or remote registries. All application logic is compiled and executed natively in local terminal sandboxes (e.g., Termux) or embedded systems.
-* **Immutable Relational Bedrock:** Enforces an absolute ancestral data mapping matrix (`semhal_core.db`) utilizing historical human lineages (Shem, Japheth, Ham, Yam) anchored geographically around the Fixed Point (`sobek`).
 * **Upstream SQLite Co-Evolution:** Installs, wraps, and upgrades alongside the official SQLite core source code. When SQLite optimizes its engine, SOBEK seamlessly adapts without breaking the sovereign data tables.
 * **Edge Intelligence & System Routing:** Designed to store and parse localized schemas for decentralized application layers, offline USSD network transfers, and localized neural network memory vectors.
 
