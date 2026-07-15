@@ -27,5 +27,5 @@ Execute the following commands in your local terminal environment to pull, initi
 ```bash
 git clone [https://github.com/MichaelBirara/sobek-framework.git](https://github.com/MichaelBirara/sobek-framework.git)
 cd sobek-framework
-chmod +x install_raya.sh
-./install_raya.sh
+chmod +x install_sobek.sh
+./install_sobek.sh
